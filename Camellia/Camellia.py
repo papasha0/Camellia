@@ -315,6 +315,7 @@ def decrypt(pkey, in_blk):
         in_blk[3] = blk[1] ^ pkey.l_key[3];
     return
 
-
+if 1==1 or 2==2:
+    pass
 
 
